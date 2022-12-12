@@ -1,4 +1,4 @@
-Estudante de Sistemas de Informação e Engenharia de Dados. Tenho estudado Python, Bancos de Dados Relacionais e Não Relacionais, Cloud Computing (AWS e GCP).
+Estudante de Sistemas de Informação e Engenharia de Dados. Tenho estudado Python, Bancos de Dados Relacionais e Não Relacionais e Cloud Computing (AWS e GCP).
 
 <div align="center">
   <a href="https://github.com/brunacataldo">
