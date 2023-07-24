@@ -23,6 +23,7 @@ Olá! Meu nome é Bruna, tenho 21 anos e sou estudante de Sistemas de Informaç�
    <img align="center" alt="Bruna-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
          />
    <img align="center" alt="Bruna-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img align="center" alt="Bruna-PBI" height="30" width="40" src="file:///C:/Users/Liberfly-ti/Downloads/Desktop.svg" />
           
          
 </div>
