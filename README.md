@@ -13,7 +13,7 @@ Olá! Meu nome é Bruna, tenho 21 anos e sou estudante de Sistemas de Informaç�
 <div align="center">
   <a href="https://github.com/brunafcataldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunafcataldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacataldo&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunafcataldo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   <div style="display: inline_block"><br>
    <img align="center" alt="Bruna-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
