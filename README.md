@@ -11,7 +11,7 @@ Olá! Meu nome é Bruna, tenho 21 anos e sou estudante de Sistemas de Informaç�
 ---
 
 <div align="center">
-  <a href="https://github.com/brunacataldo">
+  <a href="https://github.com/brunafcataldo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunacataldo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="151em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacataldo&layout=compact&langs_count=7&theme=dracula"/>
 </div>
@@ -23,7 +23,7 @@ Olá! Meu nome é Bruna, tenho 21 anos e sou estudante de Sistemas de Informaç�
    <img align="center" alt="Bruna-MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
          />
    <img align="center" alt="Bruna-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img align="center" alt="Bruna-PBI" height="30" width="40" src="file:///C:/Users/Liberfly-ti/Downloads/Desktop.svg" />
+    <img align="center" alt="Bruna-PBI" height="30" width="40" src="" />
           
          
 </div>
