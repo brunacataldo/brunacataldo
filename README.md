@@ -1,6 +1,6 @@
 # Seja Bem-vindo ao meu GitHub!
 
-Olá! Meu nome é Bruna, tenho 21 anos e sou estudante de Sistemas de Informação com foco na área de dados. Atualmente, atuo como assistente de dados na empresa [Liberfly](https://liberfly.com.br).
+Olá! Meu nome é Bruna, tenho 21 anos e sou estudante de Sistemas de Informação com foco na área de dados. Atualmente, atuo como analista de dados jr na empresa [Liberfly](https://liberfly.com.br).
 
 ## Algumas das principais atividades que desempenho no meu trabalho são:
 
