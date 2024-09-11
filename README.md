@@ -21,3 +21,10 @@ Olá! Meu nome é Bruna, tenho 21 anos e sou estudante de Sistemas de Informaç�
 <div> 
   <a href="https://www.linkedin.com/in/bruna-cataldo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
   <a href = "mailto:brunacataldo2901@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+<br>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunacataldo&show_icons=true&theme=dark&icon_color=#FF0000">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunacataldo&layout=compact&theme=dark">
+</div>
+<br><br>
