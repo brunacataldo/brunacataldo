@@ -1,6 +1,6 @@
 # Seja Bem-vindo ao meu GitHub!
 
-Olá! Meu nome é Bruna, tenho 21 anos e sou estudante de Sistemas de Informação com foco na área de dados. Atualmente, atuo como Desenvolvedora Python e Analista de Dados jr na empresa [Liberfly](https://liberfly.com.br).
+Olá! Meu nome é Bruna, tenho 23 anos e sou estudante de Sistemas de Informação com foco na área de dados. Atualmente, atuo engenheira de Dados na empresa [QBem](https://www.qbem.net.br).
 
 ## Algumas das principais atividades que desempenho no meu trabalho são:
 - 🐍 Programação em Python
